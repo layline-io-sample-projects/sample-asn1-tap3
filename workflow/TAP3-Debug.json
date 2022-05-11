@@ -1,0 +1,59 @@
+{
+  "@type" : "workflow",
+  "assetClass" : "workflow",
+  "assetType" : "workflow",
+  "uuid" : "1a65b128-642b-4b9d-aa64-e2f809ae9a91",
+  "checksum" : "8dfc0d773b4651d834fcd36560b9225577a4603cd06e6c238af3916b676f1997",
+  "name" : "TAP3-Debug",
+  "weight" : 100,
+  "processorInput" : {
+    "modifier" : "add",
+    "uuid" : "5f86c3fb-27a3-4de0-9899-bff19d102683",
+    "ref" : "76cd9c55-5b36-4809-9edb-a5b7bd0b2db5",
+    "loc" : {
+      "x" : 0.0,
+      "y" : 0.0
+    },
+    "links" : [
+      {
+        "modifier" : "add",
+        "uuid" : "c55d8d6b-92be-4c67-a006-c2fb416ca940",
+        "name" : "TAP3... -> Chec...",
+        "sourcePort" : "d940a25b-610e-41c0-bf57-ede226b2d6cf",
+        "destNode" : "18d8d01c-2e17-4ab3-ba34-79832a5ee5e0",
+        "destPort" : "ede2ea8f-288d-46f7-8632-e0840a377d77"
+      }
+    ]
+  },
+  "processors" : [
+    {
+      "modifier" : "add",
+      "uuid" : "6ab96cbc-0e7e-4619-bb4b-613093f42827",
+      "ref" : "9b93ac68-fd46-4e2d-af00-df1072faf5b6",
+      "loc" : {
+        "x" : 549.94921875,
+        "y" : 0.0
+      },
+      "links" : null
+    },
+    {
+      "modifier" : "add",
+      "uuid" : "18d8d01c-2e17-4ab3-ba34-79832a5ee5e0",
+      "ref" : "c5843d64-7030-479f-9f81-9979a886c9c3",
+      "loc" : {
+        "x" : 288.46875,
+        "y" : 0.0
+      },
+      "links" : [
+        {
+          "modifier" : "add",
+          "uuid" : "4d8f150d-652c-4d44-8ee0-5b310a77590f",
+          "name" : "Chec... -> TAP3...",
+          "sourcePort" : "a5c709ae-2cae-48d9-afd1-431ab7c76167",
+          "destNode" : "6ab96cbc-0e7e-4619-bb4b-613093f42827",
+          "destPort" : "694c6f0e-bda9-4e36-8aed-54613b806aa4"
+        }
+      ]
+    }
+  ]
+}

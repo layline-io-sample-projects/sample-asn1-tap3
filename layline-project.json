@@ -1,0 +1,6 @@
+{
+  "name" : "Sample-ASN1-TAP3",
+  "description" : "Sample Project to demonstrate ASN.1 capabilities with a Telecom's TAP3 format.",
+  "version" : "",
+  "extensions" : [ ]
+}

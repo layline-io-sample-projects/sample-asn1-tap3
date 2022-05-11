@@ -1,0 +1,10 @@
+{
+  "@type" : "deploy/engineConfig",
+  "assetClass" : "deploy",
+  "assetType" : "engineConfig",
+  "uuid" : "4668ba5f-7ee9-47db-8eb4-a5e08c8f3e03",
+  "checksum" : "3042b91c4b29fd5291c93f62cc2de2f37a08f5213bca547f60d1cdac63fdeab0",
+  "name" : "Local-Cluster",
+  "tag" : "Simple-TAP3-${build:timestamp}",
+  "workflowsDeployAll" : true
+}

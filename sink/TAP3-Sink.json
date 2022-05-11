@@ -1,0 +1,13 @@
+{
+  "@type" : "sink/fileSystem",
+  "assetClass" : "sink",
+  "assetType" : "fileSystem",
+  "uuid" : "a7f82979-29fe-420c-9ea6-ba764a6aa2e8",
+  "checksum" : "526ac3167e653c761920f587961d4f07ed1ccbdd591b559cf36e89cb43497f5e",
+  "name" : "TAP3-Sink",
+  "outputDirectory" : "/Users/andrew/Documents/Work/layline/Dev/sample-projects/sample-files/out",
+  "outputPrefix" : "out_",
+  "tempDirectory" : "/Users/andrew/Documents/Work/layline/Dev/sample-projects/sample-files/out",
+  "tempPrefix" : "tmp_",
+  "errorDirectory" : "/Users/andrew/Documents/Work/layline/Dev/sample-projects/sample-files/error"
+}

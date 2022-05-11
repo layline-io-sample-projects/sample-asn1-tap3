@@ -1,0 +1,17 @@
+{
+  "@type" : "processorInput/stream",
+  "assetClass" : "processorInput",
+  "assetType" : "stream",
+  "uuid" : "8f1276ea-a360-41cf-8cb6-5d04ae2e84af",
+  "checksum" : "d06727b9ff778a196bd80f4e56a71cd6afbb0cc18530938afed768f0e9e4e977",
+  "name" : "Tap3-Input",
+  "outputPort" : {
+    "modifier" : "add",
+    "uuid" : "d940a25b-610e-41c0-bf57-ede226b2d6cf",
+    "name" : "Output",
+    "description" : null
+  },
+  "sourceUuid" : "e64019d6-2981-4651-8cb6-706a11da22d4",
+  "formatUuid" : "2bde934a-980d-4aee-b1b1-871da57b41f3",
+  "isInstance" : false
+}

@@ -1,0 +1,10 @@
+{
+  "@type" : "processorOutput/stream",
+  "assetClass" : "processorOutput",
+  "assetType" : "stream",
+  "uuid" : "9b93ac68-fd46-4e2d-af00-df1072faf5b6",
+  "checksum" : "ec505ad359599d522c396873064df9d706061452088f3d28b9b1d3dc12db0720",
+  "name" : "TAP3-Output",
+  "baseUuid" : "383c8a71-e869-4009-bf0f-c0b9f21e5fac",
+  "isInstance" : true
+}

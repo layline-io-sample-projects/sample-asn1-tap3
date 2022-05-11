@@ -1,0 +1,20 @@
+{
+  "@type" : "processorOutput/stream",
+  "assetClass" : "processorOutput",
+  "assetType" : "stream",
+  "uuid" : "383c8a71-e869-4009-bf0f-c0b9f21e5fac",
+  "checksum" : "bd24b842fae26734d31d844bf712589ed9062f610bbd586aca4af91575e7b0c0",
+  "name" : "TAP3-Output",
+  "inputPorts" : [
+    {
+      "modifier" : "add",
+      "uuid" : "694c6f0e-bda9-4e36-8aed-54613b806aa4",
+      "name" : "Input",
+      "description" : null
+    }
+  ],
+  "failureHandling" : { },
+  "sinkUuid" : "a7f82979-29fe-420c-9ea6-ba764a6aa2e8",
+  "formatUuid" : "2bde934a-980d-4aee-b1b1-871da57b41f3",
+  "isInstance" : false
+}

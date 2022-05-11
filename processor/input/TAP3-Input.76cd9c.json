@@ -1,0 +1,10 @@
+{
+  "@type" : "processorInput/stream",
+  "assetClass" : "processorInput",
+  "assetType" : "stream",
+  "uuid" : "76cd9c55-5b36-4809-9edb-a5b7bd0b2db5",
+  "checksum" : "8a2dc4d7f8965978c9ab207f6cca4c7970b909a13d13eccd1f912522da67767a",
+  "name" : "TAP3-Input",
+  "baseUuid" : "8f1276ea-a360-41cf-8cb6-5d04ae2e84af",
+  "isInstance" : true
+}

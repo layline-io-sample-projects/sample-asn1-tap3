@@ -1,0 +1,22 @@
+{
+  "@type" : "source/fileSystem",
+  "assetClass" : "source",
+  "assetType" : "fileSystem",
+  "uuid" : "e64019d6-2981-4651-8cb6-706a11da22d4",
+  "checksum" : "67aa982529fd166624ffe474228f2d1c314a3661f27aad3170622bc63715cc6c",
+  "name" : "TAP3-Source",
+  "pollingConfig" : {
+    "@type" : "source/pollable/polling/fixedRate",
+    "pollTimeout" : "60",
+    "ordering" : "ALPHABETICAL_ASC",
+    "interval" : "15"
+  },
+  "inputDirectory" : "/Users/andrew/Documents/Work/layline/Dev/sample-projects/sample-files/in",
+  "doneDirectory" : "/Users/andrew/Documents/Work/layline/Dev/sample-projects/sample-files/done",
+  "errorDirectory" : "/Users/andrew/Documents/Work/layline/Dev/sample-projects/sample-files/error",
+  "fileFilter" : {
+    "filterRegExpr" : ".+\\.ber",
+    "prefixRegExpr" : null,
+    "suffixRegExpr" : null
+  }
+}

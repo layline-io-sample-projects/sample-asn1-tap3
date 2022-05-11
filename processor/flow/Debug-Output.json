@@ -1,0 +1,10 @@
+{
+  "@type" : "processorFlow/javaScript",
+  "assetClass" : "processorFlow",
+  "assetType" : "javaScript",
+  "uuid" : "c5843d64-7030-479f-9f81-9979a886c9c3",
+  "checksum" : "3db1acfc5e4898cabdc93828dd6abfd86e91dd67dd623fd1ec1e57758bcc2183",
+  "name" : "Debug-Output",
+  "baseUuid" : "e30b3c06-718a-44e5-af29-0a920d44807c",
+  "isInstance" : true
+}
